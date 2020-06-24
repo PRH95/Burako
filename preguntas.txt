@@ -1,0 +1,4 @@
+El anfitrion siempre inicia la partida? o puede ser aleatorio?
+
+Tiene alguna ventaja el anfitrion si siempre inicia partida?
+

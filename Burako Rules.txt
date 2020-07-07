@@ -20,6 +20,7 @@ Además se construyen 2 pilas de 11 fichas cada una las cuales se llamaran “Lo
 Restando 24 fichas las cuales se repartirán entre los jugadores. (12 a cada jugador en la modalidad 1 vs 1 y 6 a cada
 jugador en la modalidad 2 vs 2)
 
+// USUARIO//
 *Objetivo del Juego:
 El objetivo es ir formando “juegos” con los números del atril que se tiene
 e ir bajando estos juegos a la mesa con el fin de ir quedándose sin fichas poco a poco
@@ -30,7 +31,7 @@ y se juega una nueva mano si es que nadie alcanzo el puntaje necesario para gana
 Se tira el dado para decidir quien jugará primero.
 El primero en jugar toma una ficha del mazo y puede optar por quedarse con ella o tirarla al pozo,  
 y retirar otra ficha del mazo.
-Este procedimiento de sacar una ficha y si no sirve poder sacar otra es solo un privilegio del primero en jugar.
+Este procedimiento de sacar una ficha y si no sirve, poder sacar otra es solo un privilegio del primero en jugar.
 
 El próximo jugador procederá a levantar la ficha del pozo o según su conveniencia levantar una del mazo
 y depositar una ficha al pozo.
@@ -71,7 +72,6 @@ el jugador debe tener al menos una canasta (pura o impura no importa).
 Al jugar en equipos cuando uno de los participantes se queda sin fichas se termina la partida 
 (si es que el equipo tiene al menos una canasta) no hace falta que los dos jugadores del equipo se queden sin fichas. 
 Lo mismo para la toma del muerto, el primero del equipo que se queda sin fichas es el que toma el muerto.
-
 
 *Conteo de los puntos en ambos casos [(1 vs 1) y (2 vs 2)] 
 Al finalizar una partida se cuentan los puntos y se anotan (se van sumando a los de partidas anteriores)  

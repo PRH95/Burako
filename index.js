@@ -12,7 +12,7 @@ mongoose.connect("mongodb://localhost:27017/Burako", (err, res) => {
 
     app.listen(port, function () {
       console.log(
-        `Servidor de API rest usuarios excuchando en http://localhost: ${port}`
+        `Servidor de API rest usuarios escuchando en http://localhost: ${port}`
       );
     });
   }

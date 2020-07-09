@@ -1,6 +1,6 @@
 "user strict";
 
-var User = require("../models/usuario");
+var user = require("../models/usuario");
 var bcrypt = require("bcrypt-nodejs");
 
 function pruebas(req, res) {
